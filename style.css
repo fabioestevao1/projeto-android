@@ -140,12 +140,9 @@ ul #list2{
     
 }
 article#extra{
-    min-width: 320px;
-    max-width: 1000px;
     background-color:var(--cor02);
     padding: 10px;
     border-radius: 10px;
-    width: 780px;
     font-size: smaller;
     margin: auto;   
 }
